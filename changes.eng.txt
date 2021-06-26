@@ -15,7 +15,7 @@ ATTENTION:
    settings (CFG file) from official firmware!!!
  - After upgrade from any official ASUS firmware, WAN MAC address for RT-N14U/N11P is dynamically
    changed (not permanent) in last octet. Please check MAC binding from your ISP.
-
+r
 WARNING:
 These features are NO LONGER AVAILABLE:
  - WPS/WSC (completely disabled due to the serious security hole).
